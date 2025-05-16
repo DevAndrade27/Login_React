@@ -1,12 +1,17 @@
-# React + Vite
+# Projeto Login React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto simples de tela de login desenvolvido em ReactJS.  
+Objetivo: praticar manipulação de formulários, uso de estados e eventos.  
 
-Currently, two official plugins are available:
+## Tecnologias  
+- ReactJS  
+- CSS  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Como executar  
+1. Clone o repositório  
+2. Rode `npm install` para instalar as dependências  
+3. Rode `npm start` para iniciar o projeto  
+4. Abra no navegador em `http://localhost:3000`
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Contato  
+Vinícius Andrade – vinandrade.santos@gmail.com  
